@@ -1,4 +1,4 @@
-<img src="https://pythonchannel.com/media/github/wordpress-add-custom-field-no-plugin.jpg"width="100%">
+<img src="https://pythonchannel.com/media/github/wordpress-add-custom-field-no-plugin.jpg" width="100%">
 
 ## WordPressにカスタムフィードを足した例
 
