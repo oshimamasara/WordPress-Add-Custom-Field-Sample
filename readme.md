@@ -12,7 +12,8 @@
 + git clone このプロジェクト
 + XAMPP もしくは Docker で WordPress と phpMyAdmin 起動
 + DB インポート
-+ user name :  test     password:  test
++ user name :　　test
++ password:　　test
 
 ## Custom Field
 
