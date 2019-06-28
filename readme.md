@@ -2,9 +2,9 @@
 
 ## WordPressにカスタムフィードを足した例
 
-<s href="">YouTube</a>
+<a href="">YouTube</a>
 
-<s href="">TEXT:  準備中。。。</a>
+<a href="">TEXT:  準備中。。。</a>
 
 
 ## 再現方法
